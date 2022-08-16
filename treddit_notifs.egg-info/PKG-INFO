@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: treddit-notifs
+Version: 0.0.dev0
+Summary: Treddit Notifications
+Home-page: https://crowie.dev
+Author: Brenden Crowie
+Author-email: brenden@crowie.dev
+License: UNKNOWN
+Description: Timed notifications for Reddit
+Platform: UNKNOWN

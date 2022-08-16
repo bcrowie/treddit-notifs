@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+treddit_notifs.egg-info/PKG-INFO
+treddit_notifs.egg-info/SOURCES.txt
+treddit_notifs.egg-info/dependency_links.txt
+treddit_notifs.egg-info/entry_points.txt
+treddit_notifs.egg-info/not-zip-safe
+treddit_notifs.egg-info/top_level.txt
+tredditnotifs/__init__.py
